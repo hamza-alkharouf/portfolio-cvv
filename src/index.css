@@ -61,6 +61,7 @@ h1 {
 
 section {
   margin: 8rem;
+  height: 100vh;
 }
 
 section > h2,
