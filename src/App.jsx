@@ -6,8 +6,7 @@ import About from './components/about/About'
 import Experience from './components/experience/Experience'
 import Footer from './components/footer/Footer'
 import Portfolio from './components/portfolio/Portfolio'
-import Services from './components/services/Services'
-import Testimonoals from './components/testimonoals/Testimonoals'
+
 
 const App = () => {
   return (
@@ -17,9 +16,7 @@ const App = () => {
       <Nav />
       <About />
       <Experience />
-      <Services />
       <Portfolio />
-      <Testimonoals />
       <Contact />
       <Footer />
     </>
